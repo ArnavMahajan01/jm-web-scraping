@@ -7,7 +7,7 @@ const space_grotesk = Space_Grotesk({subsets: ['latin'], weight: ['300', '400', 
 
 export const metadata: Metadata = {
   title: 'PriceWise - Web Scraping Platform',
-  description: 'Track Product Prices with Web Scraping Platform',
+  description: 'Track Product Prices with Web Scraping',
 }
 
 export default function RootLayout({
